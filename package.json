@@ -1,5 +1,5 @@
 {
-  "name": "CheemsBot-MD",
+  "name": "Jack-Bot",
   "version": "1.0.0",
   "description": "Multi device wa bot created by Xeon Bot Inc.",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Xeon",
+  "author": "Ash",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
@@ -61,10 +61,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DGXeon/CheemsBot-MD.git"
+    "url": "git+https://github.com/Ashking92/CheemsBot-MD2"
   },
   "bugs": {
-    "url": "https://github.com/DGXeon/CheemsBot-MD/issues"
+    "url": "https://github.com/Ashking92/CheemsBot-MD/issues"
   },
   "homepage": "https://github.com/DGXeon/CheemsBot-MD#readme"
 }
